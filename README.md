@@ -3,6 +3,7 @@
 ## Team members
 The members of the team are:
 - *Richard Lao*
+- *Haris Kamran*
 
 
 ## Project structure
